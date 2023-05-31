@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ebtechie234
 - 👀 I’m interested in ... in any type of code
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Anything really
+- 💞️ I’m looking to collaborate on ...I don't know much but I'm willing to learn
 - 📫 How to reach me ...
 
 <!---
